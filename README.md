@@ -1,2 +1,2 @@
 # KotLin
-Program to Remove All Whitespaces in Kotlin
+Many Kotlin programs solution here
