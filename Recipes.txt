@@ -7,3 +7,5 @@ You guys would enjoy the Basic Codes of Kotlin.
 Feel Confident to Pull requests into the project.
 
 Thanks YOU.
+
+Hey are guys tries to code already ?
